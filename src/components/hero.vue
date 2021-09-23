@@ -17,34 +17,28 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
+
 
 button{
 
-    border-radius: 10px;
-    font-weight: 600;
-    font-size: 1rem;
-    color: white;
-    background-color: grey;
+  padding: 5px 5px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: white;
+  background-color: grey;
     
 }
 
 #ms_jumbotron{
-    margin: 0 auto;
-    width: 600px;
+
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px 40px;
+  color: white;
+  font-size: 1.3rem;
+  background-color: rgb(204, 204, 204);
+
 }
 
 
