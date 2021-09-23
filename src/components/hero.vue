@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'Jumbotron',
+  name: 'Hero',
   props: {
     
   }
